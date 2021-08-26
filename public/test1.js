@@ -1,0 +1,1 @@
+eval('alert("Second query string was ' + unescape(document.location.search) + '");');
